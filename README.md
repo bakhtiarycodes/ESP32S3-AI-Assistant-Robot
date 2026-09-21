@@ -63,7 +63,7 @@ The repository's VS Code ESP-IDF configuration currently points to `D:\esp\v5.5.
 Open an ESP-IDF PowerShell or Command Prompt, then change to the project directory:
 
 ```powershell
-cd D:\Projects\ESP32S3-Robot-main
+cd D:\Projects\ESP32S3-AI-Assistant-Robot
 ```
 
 If the ESP-IDF environment is not active, export it using the ESP-IDF installation for your system. For the current installation, the usual PowerShell command is:
